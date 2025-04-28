@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-04-28 at 22 12 42_a3dd4547](https://github.com/user-attachments/assets/8ce3e9c1-036b-4118-93b3-a444791a5263)## EXP.NO.3.-IMPLEMENTATION-OF-DELTA-MODULATION
+## EXP.NO.3.-IMPLEMENTATION-OF-DELTA-MODULATION
 
 3.Implementation of Delta Modulation 
   
